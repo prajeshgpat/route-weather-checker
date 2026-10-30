@@ -1,5 +1,5 @@
 {
-  "name": "rainman-routeweatherapp",
+  "name": "route-weather-checker",
   "private": true,
   "scripts": {
     "test": "node --test tests/*.test.js"
